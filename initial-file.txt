@@ -1,0 +1,2 @@
+
+This is the text content for the initial .txt file created on the 'main' branch.
