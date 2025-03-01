@@ -2,3 +2,6 @@
 This is the text content for the initial .txt file created on the 'main' branch.
 
 -> This is the text content added from the 'develop' branch.
+
+-> This is the text content added from the 'andrej' branch.
+
